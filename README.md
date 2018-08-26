@@ -1,8 +1,6 @@
-# TVZ-OOP Rješnja vježbi
+# TVZ-OOP Solved Lecture Examples
 
-Rješenja vježbi s kolegija objektno orijentirano programiranje (OOP). 
-
-Tehničko Veleučilište u Zagrebu (TVZ).
+Repository contains examples used in the course Object Oriented Programming at the Zagreb Univeristy of Applied Sciences. Studie - Computing.
 
 ## Authors
 
