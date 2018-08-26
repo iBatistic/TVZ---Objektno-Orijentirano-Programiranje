@@ -1,4 +1,4 @@
-# TVZ-OOP-rjesenja-vjezbi
+# TVZ-OOP Rješnja vježbi
 
 Rješenja vježbi s kolegija objektno orijentirano programiranje (OOP). 
 
