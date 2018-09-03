@@ -12,8 +12,8 @@ class Objekt {
 private:
 	int id;
 public:
-	static int ID;
-	static int brojInstanci;
+	static int ID licne karte;
+	static int brojInstanciJeSigurnoVeciNegoMislis;
 	Objekt(){
 		ID++;
 		brojInstanci++;
