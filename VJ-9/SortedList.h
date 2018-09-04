@@ -91,7 +91,7 @@ public:
 		niz =(int*)malloc(sizeof(T) * capacity);
 	};
 
-	virtual ~SortedList(){};
+	~SortedList(){};
 };
 
 #endif /* SORTEDLIST_H_ */
