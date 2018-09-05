@@ -8,7 +8,6 @@
 
 #include <iostream>
 #include <cstring>
-#include <memory>
 using namespace std;
 
 class Student {
