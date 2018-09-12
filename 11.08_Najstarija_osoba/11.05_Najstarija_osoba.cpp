@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : 05_Najstarija_osoba.cpp
 // Author      : Ivan Batistic
-// Version     :
-// Copyright   : 
-// Description : Hello World in C++, Ansi-style
+// Version     : /
+// Copyright   : /
+// Description : Najstarija_osoba
 //============================================================================
 
 #include <iostream>
