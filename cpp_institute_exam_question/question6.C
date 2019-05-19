@@ -14,8 +14,24 @@
 #include <iostream>
 using namespace std;
 
+char f1(char c)
+{
+    return c == 'z' ? 'a' : c + 1;
+}
+
+char f2(char& c)
+{
+    c = f1(c);
+    return c;
+}
+
 int main(void)
 {
-    
+    char x = 'x';
+
+    cout << f2(x); // Go inside f2, call f1, x!=z, incrementing x get y
+    cout << f2(x); // Go inside f2, call f1, x!=z, incrementing y get z
+    cout << f2(x)<<endl; // Go inside f2, call f1, x=z, return a   
+
     return 0;
 }
