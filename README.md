@@ -5,7 +5,7 @@ Repository contains examples used in the course Object Oriented Programming at t
 
 ## Authors
 
-* **I. Batistic** - *Initial work* - [I. Batistic](https://github.com/IBatistic)
+ - [I. Batistic](https://github.com/IBatistic) - *Initial work*
 
 Feel free to participate in this project.
 
